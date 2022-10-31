@@ -29,4 +29,5 @@ dependencies {
     implementation 'me.relex:photodraweeview:2.0.0'
     implementation 'com.facebook.fresco:fresco:2.6.0'
     implementation 'android.support.v4'
+    implementation 'com.github.novoda.bintray-release:bintray-release:0.9.2'
 }
